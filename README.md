@@ -1,0 +1,1 @@
+# string_class_friend_member_project
