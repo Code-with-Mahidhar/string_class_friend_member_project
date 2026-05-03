@@ -1,0 +1,12 @@
+
+
+v25be3b5@system7:~/v25be3b5/cpp/miniprojects/miniproject01/String_Class_with_Member_Functions$ ./a.out
+Concatenation: HelloWorld
+Comparison == : 0
+Comparison != : 1
+Comparison <  : 1
+Comparison >  : 0
+Enter a string: mahi
+You entered: mahi
+
+

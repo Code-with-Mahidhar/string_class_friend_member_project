@@ -1,0 +1,17 @@
+
+
+v25be3b5@system7:~/v25be3b5/cpp/miniprojects/miniproject01/String_Class_with_Friend_Functions$ ./a.out
+strcmp: -15
+strcat: HelloWorld
+strlen: 5
+strcpy: World
+strncpy: World
+strrev: olleH
+strupr: HELLO
+strlwr: hello
+strchr: ello
+strrchr: lo
+strstr: substring not found
+strtok: He
+
+
